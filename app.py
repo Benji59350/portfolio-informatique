@@ -23,7 +23,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("Démarrage & Connexion")
-    st.write("- **Prise en main PC** : 30€ (2h)")
+    st.write("- **Prise en main PC** : 30€ (2h) (Présentiel) ")
     st.write("- **Connexion Wi-Fi/Imprimantes** : 15€ (Présentiel)")
 
 with col2:
