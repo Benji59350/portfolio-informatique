@@ -23,7 +23,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.subheader("Démarrage & Connexion")
-    st.write("- **Prise en main PC/Mac** : 30€ (2h)")
+    st.write("- **Prise en main PC** : 30€ (2h)")
     st.write("- **Connexion Wi-Fi/Imprimantes** : 15€ (Présentiel)")
 
 with col2:
@@ -36,5 +36,5 @@ st.info("💡 **Offre spéciale :** Pack Navigation - 5 séances de 2h pour 300�
 # Contact
 st.header("📞 Me contacter")
 st.write("Intervention sur Saint-André-lez-Lille et alentours (10km).")
-st.write("Email : [benji059@outlook.com]")
-st.write("Téléphone : [06.85.34.11.60]")
+st.write("Email : [votre_benji059@outlook.com]")
+st.write("Téléphone : [0685341160]")
