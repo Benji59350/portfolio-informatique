@@ -36,5 +36,5 @@ st.info("💡 **Offre spéciale :** Pack Navigation - 5 séances de 2h pour 150�
 # Contact
 st.header("📞 Me contacter")
 st.write("Intervention sur Saint-André-lez-Lille et alentours (10km).")
-st.write("Email : [votre_benji059@outlook.com]")
+st.write("Email : [benji059@outlook.com]")
 st.write("Téléphone : [0685341160]")
