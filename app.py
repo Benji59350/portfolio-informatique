@@ -31,7 +31,7 @@ with col2:
     st.write("- **Navigation Web/Mails** : 25€ (Visio) | 35€ (Présentiel)")
     st.write("- **Résolution de lenteurs** : 10€ / heure")
 
-st.info("💡 **Offre spéciale :** Pack Navigation - 5 séances de 2h pour 300€")
+st.info("💡 **Offre spéciale :** Pack Navigation - 5 séances de 2h pour 150€")
 
 # Contact
 st.header("📞 Me contacter")
